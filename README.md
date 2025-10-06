@@ -1,7 +1,8 @@
 ## YUVRAJ RANA
 Karnal, Haryana
 
-+91-9416568084 | singh.yuvrajrana256@gmail.com  | www.linkedin.com/in/yuvraj-rana-82783b375 | https://github.com/Yuvraj-Rana-25 
++91-9416568084 | singh.yuvrajrana256@gmail.com  | [LinkedIn Profile](www.linkedin.com/in/yuvraj-rana-82783b375) | [Github](https://github.com/Yuvraj-Rana-25) | 
+[My Portfolio](https://yuvraj-rana-25.github.io/Portfolio/)
 
 ### PROFESSIONAL SUMMARY
 Enthusiastic and detail-oriented Computer Science graduate skilled in Python, SQL, and full-stack web development using Django and REST Framework. Experienced in building and deploying real-world projects, including a Dockerized Notes App with authentication, email verification, and API endpoints, as well as a MySQL-based Banking Management System with fraud detection. Strong communicator with a proven ability to learn quickly, collaborate effectively, and deliver scalable, data-driven solutions. Actively sharing projects on GitHub and insights on LinkedIn.
